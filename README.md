@@ -1,8 +1,9 @@
 # "The Dude D6"
 
-Useful Links for Security Tools and Concepts...
+# Useful Links for Security Tools and Concepts...
 
-Management Frameworks ----
+# Management Frameworks ----
+#
 https://attack.mitre.org/
 
 
